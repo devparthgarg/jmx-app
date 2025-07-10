@@ -1,4 +1,4 @@
-### Trigeering Methods in Spring Boot via JMX Jolokia
+# Trigeering Methods in Spring Boot via JMX Jolokia
 
 This is a simple Java Spring Boot project demonstrating trigeering methods in spring boot via JMX Jolokia.
 
